@@ -9,6 +9,6 @@ Convenient laundry notification and viewer app for UMich students
 
 [View it on the App Store](https://itunes.apple.com/US/app/id998426445?mt=8)
 
-<img src="http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot1.png" width="24%"> | <img src="http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot2.png" width="24%"> | <img src="http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot3.png" width="24%"> | <img src="http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot4.png" width="24%">
+<img src="http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot1.png" width="20%"> | <img src="http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot2.png" width="20%"> | <img src="http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot3.png" width="20%"> | <img src="http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot4.png" width="20%">
 
 ### Go Blue!!!
