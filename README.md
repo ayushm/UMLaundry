@@ -9,4 +9,7 @@ Convenient laundry notification and viewer app for UMich students
 
 [View it on the App Store](https://itunes.apple.com/US/app/id998426445?mt=8)
 
+![alt text](http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot1.png "Screenshot 1") | ![alt text](http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot2.png "Screenshot 2") | ![alt text](http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot3.png "Screenshot 3") | ![alt text](http://ayushmehra.com/UMLaundry/Resources/Screenshots/screenshot4.png "Screenshot 4")
+
+
 ### Go Blue!!!
